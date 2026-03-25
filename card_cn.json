@@ -6,7 +6,7 @@
   "header": {
     "title": {
       "tag": "plain_text",
-      "content": "AI复刻日志同步准备完成"
+      "content": "AI复刻日志已更新"
     },
     "template": "orange"
   },
@@ -15,7 +15,7 @@
       "tag": "div",
       "text": {
         "tag": "lark_md",
-        "content": "**最新日期：2026-03-24**\\n\\n- 标题：爆款的轮回，死灰复燃\\n- 结论：半年前验证过的结构，今天仍可能借新引擎重新起量\\n- 动作：回翻 2025 年 9 月前后的旧爆款，保留结构，重做画面和节奏\\n\\n本次通过已登录 Chrome 提取飞书页，确认当前还没有更新到 2026-03-25。"
+        "content": "**最新日期：2025-09-25**\n\n- 标题：剧本：抢食物救穷人类\n- 总结：9月24日发布，1天时间冲到1300万播放量\n- 分析：同一结构换人物和更快节奏，仍然能快速起量\n- 动作：优先复刻强反差、快兑现、单镜头能讲清的旧爆款结构\n- 状态：已通过已登录 Chrome 核对飞书当前最新节，仍停留在 2025-09-25"
       }
     },
     {
@@ -34,10 +34,10 @@
           "tag": "button",
           "text": {
             "tag": "plain_text",
-            "content": "打开 2026-03-24 详情"
+            "content": "打开 2025-09-25 详情"
           },
           "type": "default",
-          "url": "https://445022889.github.io/aishorts-daily-update/updates/2026-03-24.html"
+          "url": "https://445022889.github.io/aishorts-daily-update/updates/2025-09-25.html"
         }
       ]
     }
