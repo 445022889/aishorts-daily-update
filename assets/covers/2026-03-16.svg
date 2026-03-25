@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#111827"/><stop offset="55%" stop-color="#1d4ed8"/><stop offset="100%" stop-color="#f59e0b"/></linearGradient></defs>
+  <rect width="1200" height="675" fill="url(#bg)"/>
+  <circle cx="1035" cy="120" r="160" fill="rgba(255,255,255,0.08)"/>
+  <circle cx="110" cy="560" r="180" fill="rgba(255,255,255,0.07)"/>
+  <text x="80" y="120" fill="#fef3c7" font-size="28" font-family="Segoe UI, Microsoft YaHei, sans-serif">AI复刻日志</text>
+  <text x="80" y="210" fill="#ffffff" font-size="62" font-weight="700" font-family="Segoe UI, Microsoft YaHei, sans-serif">2026-03-16</text>
+  <foreignObject x="80" y="250" width="1040" height="190"><div xmlns="http://www.w3.org/1999/xhtml" style="font-size:52px;line-height:1.24;color:#fff;font-weight:700;font-family:'Segoe UI','Microsoft YaHei',sans-serif;">方向：同质化的边界</div></foreignObject>
+  <foreignObject x="80" y="470" width="980" height="120"><div xmlns="http://www.w3.org/1999/xhtml" style="font-size:28px;line-height:1.45;color:#fff7ed;font-family:'Segoe UI','Microsoft YaHei',sans-serif;">6. 方向：同质化的边界</div></foreignObject>
+</svg>
