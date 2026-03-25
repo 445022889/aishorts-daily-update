@@ -1,74 +1,808 @@
 [
   {
-    "date": "2026-12-31",
-    "headline": "剧本： 疑问类7-高空坠物3",
-    "summary": "92. 剧本： 疑问类7-高空坠物3",
-    "analysis": "93. 剧本：动物救援的几个分支",
-    "action": "优先保留结构，再重做画面、节奏和封面。",
-    "content_hash": "edb7f2388dee28984b4e47c2984571b54a7644f5134d7e792d111dc51520ca6f",
-    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe"
-  },
-  {
-    "date": "2026-11-17",
-    "headline": "探索：长视频剧本的线索",
-    "summary": "166. 探索：长视频剧本的线索",
-    "analysis": "167. 探索：理解Roblox 其3",
-    "action": "168. 剧本：疑问类",
-    "content_hash": "91c4ed3d8dd9d0c82f5f0ef08d21eb9daad97375dd8f1889b686a0f90bec95ee",
-    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe"
-  },
-  {
-    "date": "2026-11-16",
-    "headline": "数据：关于英文语言类的尝试",
-    "summary": "169. 数据：关于英文语言类的尝试",
-    "analysis": "数据：关于英文语言类的尝试 这类内容更适合复用结构，而不是只换表层。",
-    "action": "优先保留结构，再重做画面、节奏和封面。",
-    "content_hash": "a6603ca058431202faee81b071e365da65b0bf82417cc6494616e1169d785c01",
-    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe"
-  },
-  {
-    "date": "2026-11-15",
-    "headline": "剧本：真人转绘画-卖惨类",
-    "summary": "170. 剧本：真人转绘画-卖惨类",
-    "analysis": "171. 剧本：减肥类-人鱼分支",
-    "action": "172. 探索：Kpop语言类长视频 理想状态",
-    "content_hash": "bf0d920a5a110cf54fad93071895bf009833982b83d8a72f3f5723a82c210c14",
-    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe"
-  },
-  {
     "date": "2026-03-24",
+    "section_label": "3月24日更新",
     "headline": "爆款的轮回 死灰复燃",
     "summary": "1. 爆款的轮回 死灰复燃",
     "analysis": "1.1 剧本：丑人快速变美",
-    "action": "优先保留结构，再重做画面、节奏和封面。",
-    "content_hash": "830e31fffb3e7bfc9aecc0dfd5a1908b7355b8212f17a8155416bf7f3986dd55",
-    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe"
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "1. 爆款的轮回 死灰复燃",
+      "1.1 剧本：丑人快速变美"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "3月24日更新\n1. 爆款的轮回 死灰复燃\n1.1 剧本：丑人快速变美"
   },
   {
     "date": "2026-03-23",
+    "section_label": "3月23日更新",
     "headline": "Seedance2.0的KpopShorts井喷",
     "summary": "2. Seedance2.0的KpopShorts井喷",
     "analysis": "2.1 剧本：禁止大叫",
     "action": "2.1.1 砸手",
-    "content_hash": "864a3cd2eb7288f60639a6c01683179f2108e3a239a100ffd754b5227bb926a9",
-    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe"
+    "points": [
+      "2. Seedance2.0的KpopShorts井喷",
+      "2.1 剧本：禁止大叫",
+      "2.1.1 砸手",
+      "2.1.2 打喷嚏",
+      "2.1.3 煎蛋砸脚",
+      "2.1.4 总结一下"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "3月23日更新\n2. Seedance2.0的KpopShorts井喷\n2.1 剧本：禁止大叫\n2.1.1 砸手\n2.1.2 打喷嚏\n2.1.3 煎蛋砸脚\n2.1.4 总结一下"
   },
   {
     "date": "2026-03-22",
+    "section_label": "3月22日更新",
     "headline": "剧本：儿童和父母的反差",
     "summary": "3. 剧本：儿童和父母的反差",
     "analysis": "3.1 儿童反差",
     "action": "3.2 叫妈妈",
-    "content_hash": "49973a4ae7f9ef04031d40be8b98fbba7171e53c50d62dc32b7bcd2d577b63b5",
-    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe"
+    "points": [
+      "3. 剧本：儿童和父母的反差",
+      "3.1 儿童反差",
+      "3.2 叫妈妈",
+      "3.3 两个妈妈",
+      "3.4 男妈妈",
+      "3.5 男妈妈加强版",
+      "3.6 男妈妈加强版2-多儿童+双妈妈",
+      "3.7 男妈妈加强版3-？",
+      "3.8 总结一下"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "3月22日更新\n3. 剧本：儿童和父母的反差\n3.1 儿童反差\n3.2 叫妈妈\n3.3 两个妈妈\n3.4 男妈妈\n3.5 男妈妈加强版\n3.6 男妈妈加强版2-多儿童+双妈妈\n3.7 男妈妈加强版3-？\n3.8 总结一下"
   },
   {
-    "date": "2026-01-26",
-    "headline": "剧本：地上的画陷阱",
-    "summary": "62.",
-    "analysis": "这是近期的爆款剧本 要说这个的来源 其实在一两个月前左右 就有这类的视频 只不过 当时那种视频 多来源于sora2 内容就是地上的3D画 比如山崖 猛兽的嘴等等 行人踩上去会掉入画里 只是这种单纯的视觉冲击",
-    "action": "是开头的3秒 加入了更大更夸张的动作来展示女主害怕",
-    "content_hash": "79f7db8b5e83409ed4c2b162dcb655f1aeadad928c90f72c2d80200a5e6c6a0f",
-    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe"
+    "date": "2026-03-20",
+    "section_label": "3月20日更新",
+    "headline": "剧本：手术掉落",
+    "summary": "4. 剧本：手术掉落",
+    "analysis": "4.1 无语言 子弹",
+    "action": "4.2 原版出处 憨豆先生大电影1997",
+    "points": [
+      "4. 剧本：手术掉落",
+      "4.1 无语言 子弹",
+      "4.2 原版出处 憨豆先生大电影1997",
+      "4.3 无底洞嘴巴-拔牙",
+      "4.4 变化传送门",
+      "4.5 总结一下"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "3月20日更新\n4. 剧本：手术掉落\n4.1 无语言 子弹\n4.2 原版出处 憨豆先生大电影1997\n4.3 无底洞嘴巴-拔牙\n4.4 变化传送门\n4.5 总结一下"
+  },
+  {
+    "date": "2026-03-18",
+    "section_label": "3月18日更新",
+    "headline": "剧本：选择竞赛",
+    "summary": "5. 剧本：选择竞赛",
+    "analysis": "5.1 简易选择-大小勺子",
+    "action": "5.2 3组选择-大小叉子-大小工具扫除-大小背包双选",
+    "points": [
+      "5. 剧本：选择竞赛",
+      "5.1 简易选择-大小勺子",
+      "5.2 3组选择-大小叉子-大小工具扫除-大小背包双选",
+      "5.3 旧引擎 3组选择-大小叉子-大小工具扫除-大小背包双选",
+      "5.4 3组选择-大小零食-大小饮品-支付方式双选",
+      "5.5 总结一下"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "3月18日更新\n5. 剧本：选择竞赛\n5.1 简易选择-大小勺子\n5.2 3组选择-大小叉子-大小工具扫除-大小背包双选\n5.3 旧引擎 3组选择-大小叉子-大小工具扫除-大小背包双选\n5.4 3组选择-大小零食-大小饮品-支付方式双选\n5.5 总结一下"
+  },
+  {
+    "date": "2026-03-16",
+    "section_label": "3月16日更新",
+    "headline": "方向：同质化的边界",
+    "summary": "6. 方向：同质化的边界",
+    "analysis": "6.1 总结一下",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "6. 方向：同质化的边界",
+      "6.1 总结一下"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "3月16日更新\n6. 方向：同质化的边界\n6.1 总结一下"
+  },
+  {
+    "date": "2026-03-15",
+    "section_label": "3月15日更新",
+    "headline": "方向：长视频的尝试",
+    "summary": "7. 方向：长视频的尝试",
+    "analysis": "7.1 死亡小故事回忆结构",
+    "action": "7.2 音乐故事类结构",
+    "points": [
+      "7. 方向：长视频的尝试",
+      "7.1 死亡小故事回忆结构",
+      "7.2 音乐故事类结构",
+      "7.3 对比竞赛类结构",
+      "7.4 一些新兴的结构",
+      "7.5 总结一下"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "3月15日更新\n7. 方向：长视频的尝试\n7.1 死亡小故事回忆结构\n7.2 音乐故事类结构\n7.3 对比竞赛类结构\n7.4 一些新兴的结构\n7.5 总结一下"
+  },
+  {
+    "date": "2026-03-05",
+    "section_label": "3月5日更新",
+    "headline": "赛道：骨头人相关",
+    "summary": "18. 赛道：骨头人相关",
+    "analysis": "19. 案例：真人金矿的复刻",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "18. 赛道：骨头人相关",
+      "19. 案例：真人金矿的复刻"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "3月5日更新\n18. 赛道：骨头人相关\n19. 案例：真人金矿的复刻"
+  },
+  {
+    "date": "2026-03-04",
+    "section_label": "3月4日更新",
+    "headline": "下一阶段的风向：长的倾泻 短的癫狂",
+    "summary": "20. 下一阶段的风向：长的倾泻 短的癫狂",
+    "analysis": "20.1 常识1:RPM 和视频长度无关",
+    "action": "20.6.2.2 复刻向",
+    "points": [
+      "20. 下一阶段的风向：长的倾泻 短的癫狂",
+      "20.1 常识1:RPM 和视频长度无关",
+      "20.2 常识2:视频长度 只影响有效观看率",
+      "20.3 常识3:了解过往 理解历史",
+      "20.4 以史为鉴 可知兴衰？",
+      "20.5 以史为鉴 可知兴衰？",
+      "20.6 你 是被选中的人",
+      "20.6.1 癫狂者活",
+      "20.6.2 倾泻者生",
+      "20.6.2.1 创意向",
+      "20.6.2.2 复刻向",
+      "20.7 蒙上眼睛 发起冲锋"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "3月4日更新\n20. 下一阶段的风向：长的倾泻 短的癫狂\n20.1 常识1:RPM 和视频长度无关\n20.2 常识2:视频长度 只影响有效观看率\n20.3 常识3:了解过往 理解历史\n20.4 以史为鉴 可知兴衰？\n20.5 以史为鉴 可知兴衰？\n20.6 你 是被选中的人\n20.6.1 癫狂者活\n20.6.2 倾泻者生\n20.6.2.1 创意向\n20.6.2.2 复刻向\n20.7 蒙上眼睛 发起冲锋"
+  },
+  {
+    "date": "2026-03-01",
+    "section_label": "3月1日更新",
+    "headline": "理论与实操：写你的SOP 锻你的刀",
+    "summary": "21. 理论与实操：写你的SOP 锻你的刀",
+    "analysis": "理论与实操：写你的SOP 锻你的刀 适合先拆结构，再做人物、镜头和冲突载体替换。",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "21. 理论与实操：写你的SOP 锻你的刀"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "3月1日更新\n21. 理论与实操：写你的SOP 锻你的刀"
+  },
+  {
+    "date": "2026-02-28",
+    "section_label": "2月28日更新",
+    "headline": "剧本：食物葬礼-反差系",
+    "summary": "22. 剧本：食物葬礼-反差系",
+    "analysis": "23. 剧本：钻身体的新微调",
+    "action": "24. 剧本：求买东西-爆款元素：满地打滚",
+    "points": [
+      "22. 剧本：食物葬礼-反差系",
+      "23. 剧本：钻身体的新微调",
+      "24. 剧本：求买东西-爆款元素：满地打滚",
+      "25. 形式爆款：滚回厨房"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "2月28日更新\n22. 剧本：食物葬礼-反差系\n23. 剧本：钻身体的新微调\n24. 剧本：求买东西-爆款元素：满地打滚\n25. 形式爆款：滚回厨房"
+  },
+  {
+    "date": "2026-02-26",
+    "section_label": "2月26日更新",
+    "headline": "爆款元素：可爱小小狗",
+    "summary": "26. 爆款元素：可爱小小狗",
+    "analysis": "爆款元素：可爱小小狗 适合先拆结构，再做人物、镜头和冲突载体替换。",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "26. 爆款元素：可爱小小狗"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "2月26日更新\n26. 爆款元素：可爱小小狗"
+  },
+  {
+    "date": "2026-02-25",
+    "section_label": "2月25日更新",
+    "headline": "爆款元素：epoxy环氧树脂",
+    "summary": "27. 爆款元素：epoxy环氧树脂",
+    "analysis": "28. 爆款元素：吃辣椒",
+    "action": "28.1 搞笑形式类方向",
+    "points": [
+      "27. 爆款元素：epoxy环氧树脂",
+      "28. 爆款元素：吃辣椒",
+      "28.1 搞笑形式类方向",
+      "28.2 温情故事类方向",
+      "28.3 Kpop旧时代复刻故事类方向",
+      "28.4 总结一下",
+      "29. 爆款形式内核：疑问类"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "2月25日更新\n27. 爆款元素：epoxy环氧树脂\n28. 爆款元素：吃辣椒\n28.1 搞笑形式类方向\n28.2 温情故事类方向\n28.3 Kpop旧时代复刻故事类方向\n28.4 总结一下\n29. 爆款形式内核：疑问类"
+  },
+  {
+    "date": "2026-02-24",
+    "section_label": "2月24日更新",
+    "headline": "即梦2.0：关于影视化的尝试",
+    "summary": "30. 即梦2.0：关于影视化的尝试",
+    "analysis": "即梦2.0：关于影视化的尝试 适合先拆结构，再做人物、镜头和冲突载体替换。",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "30. 即梦2.0：关于影视化的尝试"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "2月24日更新\n30. 即梦2.0：关于影视化的尝试"
+  },
+  {
+    "date": "2026-02-23",
+    "section_label": "2月23日更新",
+    "headline": "即梦2.0：灵感与现实",
+    "summary": "31. 即梦2.0：灵感与现实",
+    "analysis": "即梦2.0：灵感与现实 适合先拆结构，再做人物、镜头和冲突载体替换。",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "31. 即梦2.0：灵感与现实"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "2月23日更新\n31. 即梦2.0：灵感与现实"
+  },
+  {
+    "date": "2026-02-22",
+    "section_label": "2月22日更新",
+    "headline": "思考：未来内容的方向",
+    "summary": "32. 思考：未来内容的方向",
+    "analysis": "32.1 穿越过去",
+    "action": "32.2 回到现在",
+    "points": [
+      "32. 思考：未来内容的方向",
+      "32.1 穿越过去",
+      "32.2 回到现在",
+      "32.3 选择未来",
+      "32.4 天空中 最亮的星"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "2月22日更新\n32. 思考：未来内容的方向\n32.1 穿越过去\n32.2 回到现在\n32.3 选择未来\n32.4 天空中 最亮的星"
+  },
+  {
+    "date": "2026-02-21",
+    "section_label": "2月21日更新",
+    "headline": "理论：即梦2.0的提示词的制作流程指南",
+    "summary": "33. 理论：即梦2.0的提示词的制作流程指南",
+    "analysis": "33.1 提示词 是最没用的结果",
+    "action": "33.2 思考的路径",
+    "points": [
+      "33. 理论：即梦2.0的提示词的制作流程指南",
+      "33.1 提示词 是最没用的结果",
+      "33.2 思考的路径",
+      "33.2.1 设计所有场景和情节概况",
+      "33.2.2 给每个场景 设计关键帧 与写出每个关键帧画面概况",
+      "33.2.3 画出起始帧/联想所有关键帧",
+      "33.2.4 关键帧的错误与校正",
+      "33.2.5 关键帧时间轴的细节与拆分",
+      "33.2.6 跑视频筛选抽卡/关键帧的调整补充",
+      "33.2.7 剪辑与灵感",
+      "33.3 综上所述"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "2月21日更新\n33. 理论：即梦2.0的提示词的制作流程指南\n33.1 提示词 是最没用的结果\n33.2 思考的路径\n33.2.1 设计所有场景和情节概况\n33.2.2 给每个场景 设计关键帧 与写出每个关键帧画面概况\n33.2.3 画出起始帧/联想所有关键帧\n33.2.4 关键帧的错误与校正\n33.2.5 关键帧时间轴的细节与拆分\n33.2.6 跑视频筛选抽卡/关键帧的调整补充\n33.2.7 剪辑与灵感\n33.3 综上所述"
+  },
+  {
+    "date": "2026-02-20",
+    "section_label": "2月20日更新",
+    "headline": "线索：即梦2.0+真人赛道的金矿示例",
+    "summary": "34. 线索：即梦2.0+真人赛道的金矿示例",
+    "analysis": "线索：即梦2.0+真人赛道的金矿示例 适合先拆结构，再做人物、镜头和冲突载体替换。",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "34. 线索：即梦2.0+真人赛道的金矿示例"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "2月20日更新\n34. 线索：即梦2.0+真人赛道的金矿示例"
+  },
+  {
+    "date": "2026-02-19",
+    "section_label": "2月19日更新",
+    "headline": "爆款方向：即梦2.0+真人赛道的金矿",
+    "summary": "35. 爆款方向：即梦2.0+真人赛道的金矿",
+    "analysis": "35.1 未曾开采的金矿所在",
+    "action": "35.2 分辨出金矿的特征",
+    "points": [
+      "35. 爆款方向：即梦2.0+真人赛道的金矿",
+      "35.1 未曾开采的金矿所在",
+      "35.2 分辨出金矿的特征",
+      "35.3 真金所在 远远不止如此",
+      "36. 警告：投机者 必定没有好下场"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "2月19日更新\n35. 爆款方向：即梦2.0+真人赛道的金矿\n35.1 未曾开采的金矿所在\n35.2 分辨出金矿的特征\n35.3 真金所在 远远不止如此\n36. 警告：投机者 必定没有好下场"
+  },
+  {
+    "date": "2026-02-18",
+    "section_label": "2月18日更新",
+    "headline": "即梦纪元第三课：循序与渐进",
+    "summary": "37. 即梦纪元第三课：循序与渐进",
+    "analysis": "1. 10秒内 单人 固定镜头 形式视频",
+    "action": "2. 20秒内 多人 固定镜头 形式视频",
+    "points": [
+      "37. 即梦纪元第三课：循序与渐进",
+      "1. 10秒内 单人 固定镜头 形式视频",
+      "2. 20秒内 多人 固定镜头 形式视频",
+      "3. 40秒内 活动镜头 简单语言剧情类/剧情类视频",
+      "4. 2分钟内 活动镜头 复杂语言剧情类/剧情类视频",
+      "5. 3-6分钟 长篇语言剧情类长视频",
+      "6. 起点 即是终点"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "2月18日更新\n37. 即梦纪元第三课：循序与渐进\n1. 10秒内 单人 固定镜头 形式视频\n2. 20秒内 多人 固定镜头 形式视频\n3. 40秒内 活动镜头 简单语言剧情类/剧情类视频\n4. 2分钟内 活动镜头 复杂语言剧情类/剧情类视频\n5. 3-6分钟 长篇语言剧情类长视频\n6. 起点 即是终点"
+  },
+  {
+    "date": "2025-12-17",
+    "section_label": "12月17日更新",
+    "headline": "剧本：“原片线索”类长视频",
+    "summary": "108. 剧本：“原片线索”类长视频",
+    "analysis": "109. 剧本：沙漠种树 IP变种",
+    "action": "110. 季节性IP：Grinch",
+    "points": [
+      "108. 剧本：“原片线索”类长视频",
+      "109. 剧本：沙漠种树 IP变种",
+      "110. 季节性IP：Grinch"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "12月17日更新\n108. 剧本：“原片线索”类长视频\n109. 剧本：沙漠种树 IP变种\n110. 季节性IP：Grinch"
+  },
+  {
+    "date": "2025-12-01",
+    "section_label": "12月1日更新",
+    "headline": "机会：形式爆款的长视频",
+    "summary": "140. 机会：形式爆款的长视频",
+    "analysis": "141. 机会：佛学类Shorts",
+    "action": "142. 机会：旧活新整",
+    "points": [
+      "140. 机会：形式爆款的长视频",
+      "141. 机会：佛学类Shorts",
+      "142. 机会：旧活新整"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "12月1日更新\n140. 机会：形式爆款的长视频\n141. 机会：佛学类Shorts\n142. 机会：旧活新整"
+  },
+  {
+    "date": "2025-11-15",
+    "section_label": "11月15日更新",
+    "headline": "剧本：真人转绘画-卖惨类",
+    "summary": "170. 剧本：真人转绘画-卖惨类",
+    "analysis": "171. 剧本：减肥类-人鱼分支",
+    "action": "172. 探索：Kpop语言类长视频 理想状态",
+    "points": [
+      "170. 剧本：真人转绘画-卖惨类",
+      "171. 剧本：减肥类-人鱼分支",
+      "172. 探索：Kpop语言类长视频 理想状态"
+    ],
+    "urls": [
+      "https://www.youtube.com/shorts/JF3z56RQY8M",
+      "https://www.youtube.com/shorts/Ylkxe9MYRto"
+    ],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "11月15日更新\n170. 剧本：真人转绘画-卖惨类\n171. 剧本：减肥类-人鱼分支\n172. 探索：Kpop语言类长视频 理想状态"
+  },
+  {
+    "date": "2025-11-03",
+    "section_label": "11月3日更新",
+    "headline": "剧本：恶心类的传奇落幕",
+    "summary": "189. 剧本：恶心类的传奇落幕",
+    "analysis": "190. 剧本：竞赛类变种-鱿鱼游戏分支",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "189. 剧本：恶心类的传奇落幕",
+      "190. 剧本：竞赛类变种-鱿鱼游戏分支"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "11月3日更新\n189. 剧本：恶心类的传奇落幕\n190. 剧本：竞赛类变种-鱿鱼游戏分支"
+  },
+  {
+    "date": "2025-10-29",
+    "section_label": "10月29日更新",
+    "headline": "谜团：YouTube的数据之谜",
+    "summary": "197. 谜团：YouTube的数据之谜",
+    "analysis": "198. 技巧： Shorts组合长视频2",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "197. 谜团：YouTube的数据之谜",
+      "198. 技巧： Shorts组合长视频2"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月29日更新\n197. 谜团：YouTube的数据之谜\n198. 技巧： Shorts组合长视频2"
+  },
+  {
+    "date": "2025-10-25",
+    "section_label": "10月25日更新",
+    "headline": "剧本：天堂地狱抉择类",
+    "summary": "205. 剧本：天堂地狱抉择类",
+    "analysis": "剧本：天堂地狱抉择类 适合先拆结构，再做人物、镜头和冲突载体替换。",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "205. 剧本：天堂地狱抉择类"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月25日更新\n205. 剧本：天堂地狱抉择类"
+  },
+  {
+    "date": "2025-10-24",
+    "section_label": "10月24日更新",
+    "headline": "剧本：欺负+复仇 - 猫狗故事",
+    "summary": "206. 剧本：欺负+复仇 - 猫狗故事",
+    "analysis": "剧本：欺负+复仇 - 猫狗故事 适合先拆结构，再做人物、镜头和冲突载体替换。",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "206. 剧本：欺负+复仇 - 猫狗故事"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月24日更新\n206. 剧本：欺负+复仇 - 猫狗故事"
+  },
+  {
+    "date": "2025-10-23",
+    "section_label": "10月23日更新",
+    "headline": "线索&示例：一个视频速通高级YPP系列",
+    "summary": "207. 线索&示例：一个视频速通高级YPP系列",
+    "analysis": "208. 线索：一个视频速通高级YPP系列 2",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "207. 线索&示例：一个视频速通高级YPP系列",
+      "208. 线索：一个视频速通高级YPP系列 2"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月23日更新\n207. 线索&示例：一个视频速通高级YPP系列\n208. 线索：一个视频速通高级YPP系列 2"
+  },
+  {
+    "date": "2025-10-22",
+    "section_label": "10月22日更新",
+    "headline": "爆款元素：指甲长爪",
+    "summary": "209. 爆款元素：指甲长爪",
+    "analysis": "爆款元素：指甲长爪 适合先拆结构，再做人物、镜头和冲突载体替换。",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "209. 爆款元素：指甲长爪"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月22日更新\n209. 爆款元素：指甲长爪"
+  },
+  {
+    "date": "2025-10-21",
+    "section_label": "10月21日更新",
+    "headline": "剧本：异常元素-巨大水果变种",
+    "summary": "210. 剧本：异常元素-巨大水果变种",
+    "analysis": "剧本：异常元素-巨大水果变种 适合先拆结构，再做人物、镜头和冲突载体替换。",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "210. 剧本：异常元素-巨大水果变种"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月21日更新\n210. 剧本：异常元素-巨大水果变种"
+  },
+  {
+    "date": "2025-10-20",
+    "section_label": "10月20日更新",
+    "headline": "剧本：密集恐惧元素",
+    "summary": "211. 剧本：密集恐惧元素",
+    "analysis": "剧本：密集恐惧元素 适合先拆结构，再做人物、镜头和冲突载体替换。",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "211. 剧本：密集恐惧元素"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月20日更新\n211. 剧本：密集恐惧元素"
+  },
+  {
+    "date": "2025-10-19",
+    "section_label": "10月19日更新",
+    "headline": "剧本：形式爆款-扔水球变种",
+    "summary": "212. 剧本：形式爆款-扔水球变种",
+    "analysis": "剧本：形式爆款-扔水球变种 适合先拆结构，再做人物、镜头和冲突载体替换。",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "212. 剧本：形式爆款-扔水球变种"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月19日更新\n212. 剧本：形式爆款-扔水球变种"
+  },
+  {
+    "date": "2025-10-18",
+    "section_label": "10月18日更新",
+    "headline": "剧本：二维码扫描",
+    "summary": "213. 剧本：二维码扫描",
+    "analysis": "214. 剧本：猫狗故事-面向印度受众",
+    "action": "215. 剧本：食物做载具-篮球明星分支",
+    "points": [
+      "213. 剧本：二维码扫描",
+      "214. 剧本：猫狗故事-面向印度受众",
+      "215. 剧本：食物做载具-篮球明星分支"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月18日更新\n213. 剧本：二维码扫描\n214. 剧本：猫狗故事-面向印度受众\n215. 剧本：食物做载具-篮球明星分支"
+  },
+  {
+    "date": "2025-10-17",
+    "section_label": "10月17日更新",
+    "headline": "技巧：剧本复利-形式爆款-冰淇淋分享分支",
+    "summary": "216. 技巧：剧本复利-形式爆款-冰淇淋分享分支",
+    "analysis": "217. 剧本：剧本复利-形式爆款- 砸墙分支",
+    "action": "218. 剧本：形式爆款-sora动物监控",
+    "points": [
+      "216. 技巧：剧本复利-形式爆款-冰淇淋分享分支",
+      "217. 剧本：剧本复利-形式爆款- 砸墙分支",
+      "218. 剧本：形式爆款-sora动物监控"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月17日更新\n216. 技巧：剧本复利-形式爆款-冰淇淋分享分支\n217. 剧本：剧本复利-形式爆款- 砸墙分支\n218. 剧本：形式爆款-sora动物监控"
+  },
+  {
+    "date": "2025-10-16",
+    "section_label": "10月16日更新",
+    "headline": "剧本：形式爆款-多人对比类",
+    "summary": "219. 剧本：形式爆款-多人对比类",
+    "analysis": "220. 剧本：真人转绘-短剧中的短剧",
+    "action": "221. 剧本：？？？- 针灸爆款元素？",
+    "points": [
+      "219. 剧本：形式爆款-多人对比类",
+      "220. 剧本：真人转绘-短剧中的短剧",
+      "221. 剧本：？？？- 针灸爆款元素？"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月16日更新\n219. 剧本：形式爆款-多人对比类\n220. 剧本：真人转绘-短剧中的短剧\n221. 剧本：？？？- 针灸爆款元素？"
+  },
+  {
+    "date": "2025-10-15",
+    "section_label": "10月15日更新",
+    "headline": "剧本：真人转绘类-异常梗",
+    "summary": "222. 剧本：真人转绘类-异常梗",
+    "analysis": "223. 剧本：真人转绘类-异常梗2",
+    "action": "224. 警告：关于对未成年人有害内容 Ypp收回/警示的判罚尺度",
+    "points": [
+      "222. 剧本：真人转绘类-异常梗",
+      "223. 剧本：真人转绘类-异常梗2",
+      "224. 警告：关于对未成年人有害内容 Ypp收回/警示的判罚尺度"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月15日更新\n222. 剧本：真人转绘类-异常梗\n223. 剧本：真人转绘类-异常梗2\n224. 警告：关于对未成年人有害内容 Ypp收回/警示的判罚尺度"
+  },
+  {
+    "date": "2025-10-14",
+    "section_label": "10月14日更新",
+    "headline": "剧本：减肥瘦身类-肢体异常变种",
+    "summary": "225. 剧本：减肥瘦身类-肢体异常变种",
+    "analysis": "226. 剧本：鱿鱼游戏相关",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "225. 剧本：减肥瘦身类-肢体异常变种",
+      "226. 剧本：鱿鱼游戏相关"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月14日更新\n225. 剧本：减肥瘦身类-肢体异常变种\n226. 剧本：鱿鱼游戏相关"
+  },
+  {
+    "date": "2025-10-13",
+    "section_label": "10月13日更新",
+    "headline": "剧本：真人转绘类-禁止携带类分支",
+    "summary": "227. 剧本：真人转绘类-禁止携带类分支",
+    "analysis": "228. 剧本：互换身份复仇类-“中世纪+缩小”变种",
+    "action": "229. 剧本：真人转绘类-竞赛类变种",
+    "points": [
+      "227. 剧本：真人转绘类-禁止携带类分支",
+      "228. 剧本：互换身份复仇类-“中世纪+缩小”变种",
+      "229. 剧本：真人转绘类-竞赛类变种"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月13日更新\n227. 剧本：真人转绘类-禁止携带类分支\n228. 剧本：互换身份复仇类-“中世纪+缩小”变种\n229. 剧本：真人转绘类-竞赛类变种"
+  },
+  {
+    "date": "2025-10-12",
+    "section_label": "10月12日更新",
+    "headline": "剧本：吃宝石变身类-超级英雄变种",
+    "summary": "230. 剧本：吃宝石变身类-超级英雄变种",
+    "analysis": "231. 剧本：真人转绘类-恶作剧+复仇故事分支",
+    "action": "232. 剧本：真人转绘类-竞赛类变种",
+    "points": [
+      "230. 剧本：吃宝石变身类-超级英雄变种",
+      "231. 剧本：真人转绘类-恶作剧+复仇故事分支",
+      "232. 剧本：真人转绘类-竞赛类变种"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月12日更新\n230. 剧本：吃宝石变身类-超级英雄变种\n231. 剧本：真人转绘类-恶作剧+复仇故事分支\n232. 剧本：真人转绘类-竞赛类变种"
+  },
+  {
+    "date": "2025-10-11",
+    "section_label": "10月11日更新",
+    "headline": "剧本：长视频MV故事",
+    "summary": "233. 剧本：长视频MV故事",
+    "analysis": "234. 剧本：鱿鱼游戏相关",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "233. 剧本：长视频MV故事",
+      "234. 剧本：鱿鱼游戏相关"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月11日更新\n233. 剧本：长视频MV故事\n234. 剧本：鱿鱼游戏相关"
+  },
+  {
+    "date": "2025-10-10",
+    "section_label": "10月10日更新",
+    "headline": "警告：立即删除所有和儿童有关的画面",
+    "summary": "235. 警告：立即删除所有和儿童有关的画面",
+    "analysis": "236. 加餐：关于多账号矩阵的必要性",
+    "action": "237. 剧本：肢体异常类",
+    "points": [
+      "235. 警告：立即删除所有和儿童有关的画面",
+      "236. 加餐：关于多账号矩阵的必要性",
+      "237. 剧本：肢体异常类",
+      "238. 剧本：抉择类"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月10日更新\n235. 警告：立即删除所有和儿童有关的画面\n236. 加餐：关于多账号矩阵的必要性\n237. 剧本：肢体异常类\n238. 剧本：抉择类"
+  },
+  {
+    "date": "2025-10-09",
+    "section_label": "10月9日更新",
+    "headline": "剧本：宝宝救援类变种-机器人伴侣",
+    "summary": "239. 剧本：宝宝救援类变种-机器人伴侣",
+    "analysis": "240. 技巧：Shorts组合长视频",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "239. 剧本：宝宝救援类变种-机器人伴侣",
+      "240. 技巧：Shorts组合长视频"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月9日更新\n239. 剧本：宝宝救援类变种-机器人伴侣\n240. 技巧：Shorts组合长视频"
+  },
+  {
+    "date": "2025-10-08",
+    "section_label": "10月8日更新",
+    "headline": "剧本：真人转绘",
+    "summary": "243. 剧本：真人转绘",
+    "analysis": "244. 剧本：炸弹复仇故事",
+    "action": "245. 剧本：吃戒指故事变种",
+    "points": [
+      "243. 剧本：真人转绘",
+      "244. 剧本：炸弹复仇故事",
+      "245. 剧本：吃戒指故事变种",
+      "246. 剧本：时光闪回类",
+      "247. 剧本：竞赛类-叠鸡蛋分支"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月8日更新\n243. 剧本：真人转绘\n244. 剧本：炸弹复仇故事\n245. 剧本：吃戒指故事变种\n246. 剧本：时光闪回类\n247. 剧本：竞赛类-叠鸡蛋分支"
+  },
+  {
+    "date": "2025-10-07",
+    "section_label": "10月7日更新",
+    "headline": "剧本：男扮女装-美人鱼变种",
+    "summary": "248. 剧本：男扮女装-美人鱼变种",
+    "analysis": "249. 剧本：厨房欺负复仇故事",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "248. 剧本：男扮女装-美人鱼变种",
+      "249. 剧本：厨房欺负复仇故事"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月7日更新\n248. 剧本：男扮女装-美人鱼变种\n249. 剧本：厨房欺负复仇故事"
+  },
+  {
+    "date": "2025-10-06",
+    "section_label": "10月6日更新",
+    "headline": "剧本：僵尸类",
+    "summary": "250. 剧本：僵尸类",
+    "analysis": "251. 剧本：真人转绘类-龟兔赛跑分支",
+    "action": "优先保留节奏和情绪钩子，再替换题材皮肤。",
+    "points": [
+      "250. 剧本：僵尸类",
+      "251. 剧本：真人转绘类-龟兔赛跑分支"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月6日更新\n250. 剧本：僵尸类\n251. 剧本：真人转绘类-龟兔赛跑分支"
+  },
+  {
+    "date": "2025-10-05",
+    "section_label": "10月5日更新",
+    "headline": "心力加餐",
+    "summary": "252. 心力加餐",
+    "analysis": "253. 剧本：真人转绘类-“佣人帮做”分支",
+    "action": "254. 剧本：美人鱼断尾类",
+    "points": [
+      "252. 心力加餐",
+      "253. 剧本：真人转绘类-“佣人帮做”分支",
+      "254. 剧本：美人鱼断尾类",
+      "255. 剧本：减肥瘦身类-美人鱼变种",
+      "256. 剧本：真人转绘类-化妆类分支",
+      "257. 剧本：男扮女装-美人鱼变种"
+    ],
+    "urls": [],
+    "source_url": "https://ncnh6gsxauqu.feishu.cn/wiki/Ym1Lwzel8ibRyhkbhR2c73Tinxe",
+    "page_title": "AIShorts-阿初的爆款库-3.1号集群 - 飞书云文档",
+    "raw_text": "10月5日更新\n252. 心力加餐\n253. 剧本：真人转绘类-“佣人帮做”分支\n254. 剧本：美人鱼断尾类\n255. 剧本：减肥瘦身类-美人鱼变种\n256. 剧本：真人转绘类-化妆类分支\n257. 剧本：男扮女装-美人鱼变种"
   }
 ]
