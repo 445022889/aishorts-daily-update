@@ -123,3 +123,16 @@ p,li{line-height:1.75;color:var(--muted)}
   .figure-card{padding:12px;border-radius:16px}
   .link-card{padding:14px;border-radius:16px}
 }
+
+
+.compare-flow{gap:22px}
+.compare-row{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(320px,.9fr);gap:18px;align-items:start}
+.compare-hero .panel{height:100%}
+.raw-panel,.analysis-panel{height:100%}
+.raw-list{display:grid;gap:12px}
+.raw-item{display:grid;gap:6px;padding:16px;border:1px solid var(--line);border-radius:18px;background:var(--panel-strong)}
+.raw-item strong{font-size:16px}
+.raw-item span{color:var(--muted);line-height:1.7}
+.raw-link-card p{margin:6px 0 0}
+.compact-gallery{margin-top:14px}
+@media (max-width:980px){.compare-row{grid-template-columns:1fr}}
